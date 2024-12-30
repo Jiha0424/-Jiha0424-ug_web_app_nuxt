@@ -1,0 +1,227 @@
+{
+  "data": [
+    {
+      "label": "Home",
+      "items": [
+        {
+          "label": "Dashboard",
+          "icon": "pi pi-fw pi-home",
+          "to": "/"
+        }
+      ]
+    },
+    {
+      "label": "UG소개",
+      "items": [
+        {
+          "label": "UG소개",
+          "icon": "pi pi-fw pi-home",
+          "to": ""
+        }
+      ]
+    },
+    {
+      "label": "맨홀",
+      "items": [
+        {
+          "label": "맨홀리스트",
+          "icon": "pi pi-fw pi-home",
+          "to": ""
+        },
+        {
+          "label": "맨홀지도",
+          "icon": "pi pi-fw pi-home",
+          "to": ""
+        },
+        {
+          "label": "샘플지도",
+          "icon": "pi pi-fw pi-home",
+          "to": ""
+        }
+      ]
+    },
+    {
+      "label": "준설공사",
+      "items": [
+        {
+          "label": "준설공사리스트",
+          "icon": "pi pi-fw pi-home",
+          "to": ""
+        },
+        {
+          "label": "준설공사지도",
+          "icon": "pi pi-fw pi-home",
+          "to": ""
+        }
+      ]
+    },
+    {
+      "label": "고객지원",
+      "items": [
+        {
+          "label": "공지사항",
+          "icon": "pi pi-fw pi-home",
+          "to": ""
+        },
+        {
+          "label": "준설공사공고",
+          "icon": "pi pi-fw pi-home",
+          "to": ""
+        },
+        {
+          "label": "FAQ",
+          "icon": "pi pi-fw pi-home",
+          "to": ""
+        }
+      ]
+    },
+    {
+      "label": "설정",
+      "items": [
+        {
+          "label": "회원관리",
+          "icon": "pi pi-fw pi-home",
+          "to": ""
+        },
+        {
+          "label": "공지사항",
+          "icon": "pi pi-fw pi-home",
+          "to": ""
+        },
+        {
+          "label": "준설공사공고",
+          "icon": "pi pi-fw pi-home",
+          "to": ""
+        },
+        {
+          "label": "FAQ",
+          "icon": "pi pi-fw pi-home",
+          "to": ""
+        }
+      ]
+    },
+    {
+      "label": "Sample",
+      "items": [
+        {
+          "label": "UI Components",
+          "items": [
+            {
+              "label": "Form Layout",
+              "icon": "pi pi-fw pi-id-card",
+              "to": "/sample/uikit/formlayout"
+            },
+            {
+              "label": "Input",
+              "icon": "pi pi-fw pi-check-square",
+              "to": "/sample/uikit/input"
+            },
+            {
+              "label": "Button",
+              "icon": "pi pi-fw pi-mobile",
+              "to": "/sample/uikit/button",
+              "class": "rotated-icon"
+            },
+            {
+              "label": "Table",
+              "icon": "pi pi-fw pi-table",
+              "to": "/sample/uikit/table"
+            },
+            {
+              "label": "List",
+              "icon": "pi pi-fw pi-list",
+              "to": "/sample/uikit/list"
+            },
+            {
+              "label": "Tree",
+              "icon": "pi pi-fw pi-share-alt",
+              "to": "/sample/uikit/tree"
+            },
+            {
+              "label": "Panel",
+              "icon": "pi pi-fw pi-tablet",
+              "to": "/sample/uikit/panel"
+            },
+            {
+              "label": "Overlay",
+              "icon": "pi pi-fw pi-clone",
+              "to": "/sample/uikit/overlay"
+            },
+            {
+              "label": "Media",
+              "icon": "pi pi-fw pi-image",
+              "to": "/sample/uikit/media"
+            },
+            {
+              "label": "Menu",
+              "icon": "pi pi-fw pi-bars",
+              "to": "/sample/uikit/menuDoc"
+            },
+            {
+              "label": "Message",
+              "icon": "pi pi-fw pi-comment",
+              "to": "/sample/uikit/message"
+            },
+            {
+              "label": "File",
+              "icon": "pi pi-fw pi-file",
+              "to": "/sample/uikit/file"
+            },
+            {
+              "label": "Chart",
+              "icon": "pi pi-fw pi-chart-bar",
+              "to": "/sample/uikit/charts"
+            },
+            {
+              "label": "Timeline",
+              "icon": "pi pi-fw pi-calendar",
+              "to": "/sample/uikit/timeline"
+            },
+            {
+              "label": "Misc",
+              "icon": "pi pi-fw pi-circle",
+              "to": "/sample/uikit/misc"
+            }
+          ]
+        },
+        {
+          "label": "Pages",
+          "icon": "pi pi-fw pi-briefcase",
+          "items": [
+            {
+              "label": "Auth",
+              "icon": "pi pi-fw pi-user",
+              "items": [
+                {
+                  "label": "Login",
+                  "icon": "pi pi-fw pi-sign-in",
+                  "to": "/sample/auth/login"
+                },
+                {
+                  "label": "Access Denied",
+                  "icon": "pi pi-fw pi-lock",
+                  "to": "/sample/auth/access_denied"
+                }
+              ]
+            },
+            {
+              "label": "Crud",
+              "icon": "pi pi-fw pi-pencil",
+              "to": "/sample/crud"
+            },
+            {
+              "label": "Not Found",
+              "icon": "pi pi-fw pi-exclamation-circle",
+              "to": "/sample/not_found"
+            },
+            {
+              "label": "Error",
+              "icon": "pi pi-fw pi-times-circle",
+              "to": "/sample/error"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

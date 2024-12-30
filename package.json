@@ -1,0 +1,39 @@
+{
+  "name": "nuxt-app",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "dev-dev": "nuxt dev --dotenv .env.dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "dependencies": {
+    "@fawmi/vue-google-maps": "0.9.72",
+    "@pinia/nuxt": "^0.5.4",
+    "@primevue/themes": "^4.0.4",
+    "axios": "^1.7.5",
+    "dayjs": "^1.11.13",
+    "googlemap-custom-marker-vue": "^1.1.0",
+    "nuxt": "^3.12.4",
+    "nuxt-gmaps": "^1.2.10",
+    "pinia": "^2.2.2",
+    "primeicons": "^7.0.0",
+    "primevue": "^4.2.5",
+    "quill": "^2.0.3",
+    "vite": "^5.4.2",
+    "vue": "latest"
+  },
+  "devDependencies": {
+    "@primevue/nuxt-module": "^4.0.4",
+    "@samk-dev/nuxt-vcalendar": "^1.0.4",
+    "autoprefixer": "^10.4.20",
+    "chart.js": "^4.4.0",
+    "postcss": "^8.4.41",
+    "sass": "^1.77.8",
+    "tailwindcss": "^3.4.10",
+    "tailwindcss-primeui": "^0.3.4"
+  }
+}

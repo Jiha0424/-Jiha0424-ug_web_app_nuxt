@@ -1,0 +1,112 @@
+{
+	"data": [
+		{
+			"gubun": "총판",
+			"user_name": "이세돌",
+			"user_id": "two3dol",
+			"password": "1234",
+			"grade": "Admin",
+			"login_cnt": 65,
+			"state": "접속",
+			"reg_id": "bacarss",
+			"reg_date": "2024-01-01",
+			"use_yn": "Y"
+		},
+		{
+			"gubun": "총판",
+			"user_name": "일세돌",
+			"user_id": "two3dol",
+			"password": "1234",
+			"grade": "Admin",
+			"login_cnt": 65,
+			"state": "접속",
+			"reg_id": "bacarss",
+			"reg_date": "2024-01-01",
+			"use_yn": "N"
+		},
+		{
+			"gubun": "대리점",
+			"user_name": "삼세돌",
+			"user_id": "two3dol",
+			"password": "1234",
+			"grade": "Admin",
+			"login_cnt": 65,
+			"state": "접속",
+			"reg_id": "bacarss",
+			"reg_date": "2024-01-01",
+			"use_yn": "Y"
+		},
+		{
+			"gubun": "총판",
+			"user_name": "사세돌",
+			"user_id": "two3dol",
+			"password": "1234",
+			"grade": "Admin",
+			"login_cnt": 65,
+			"state": "접속",
+			"reg_id": "bacarss",
+			"reg_date": "2024-01-01",
+			"use_yn": "Y"
+		},
+		{
+			"gubun": "총판",
+			"user_name": "이세돌",
+			"user_id": "two3dol",
+			"password": "1234",
+			"grade": "Admin",
+			"login_cnt": 65,
+			"state": "접속",
+			"reg_id": "bacarss",
+			"reg_date": "2024-01-01",
+			"use_yn": "Y"
+		},
+		{
+			"gubun": "총판",
+			"user_name": "이세돌",
+			"user_id": "two3dol",
+			"password": "1234",
+			"grade": "Admin",
+			"login_cnt": 65,
+			"state": "접속",
+			"reg_id": "bacarss",
+			"reg_date": "2024-01-01",
+			"use_yn": "Y"
+		},
+		{
+			"gubun": "총판",
+			"user_name": "이세돌",
+			"user_id": "two3dol",
+			"password": "1234",
+			"grade": "Admin",
+			"login_cnt": 65,
+			"state": "접속",
+			"reg_id": "bacarss",
+			"reg_date": "2024-01-01",
+			"use_yn": "Y"
+		},
+		{
+			"gubun": "총판",
+			"user_name": "이세돌",
+			"user_id": "two3dol",
+			"password": "1234",
+			"grade": "Admin",
+			"login_cnt": 65,
+			"state": "접속",
+			"reg_id": "bacarss",
+			"reg_date": "2024-01-01",
+			"use_yn": "Y"
+		},
+		{
+			"gubun": "총판",
+			"user_name": "이세돌",
+			"user_id": "two3dol",
+			"password": "1234",
+			"grade": "Admin",
+			"login_cnt": 65,
+			"state": "접속",
+			"reg_id": "bacarss",
+			"reg_date": "2024-01-01",
+			"use_yn": "Y"
+		}
+	]
+}
